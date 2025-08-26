@@ -1,1 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
 
+.tabs {
+  margin-top: 20px;
+}
+
+.tab {
+  margin-bottom: 40px;
+}
+
+.upload-form {
+  margin-top: 40px;
+}
